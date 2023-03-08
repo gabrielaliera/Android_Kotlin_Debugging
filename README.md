@@ -1,4 +1,3 @@
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 # AND101 Project 2 - Kotlin Debug-a-thon
 
 Submitted by: Gabriela Liera
@@ -7,13 +6,12 @@ Time spent: **2** hours spent in total
 
 ## Summary
 
-Android Kotlin Debugging is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+Android Kotlin Debugging is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!
+There are 7 buttons with errors where I debugged using Logcat. 
 
 If I had to describe this project in three (3) emojis, they would be: 🤓🧠👩‍💻
 
 ## Application Features
-
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
 
@@ -24,13 +22,7 @@ The following REQUIRED features are completed:
 - [ ] 🗒️ Debug and fix Print List activity
 - [ ] 💯 Debug and fix Favorite Number activity
 
-The following STRETCH features are implemented:
-
-- [ ] TODO
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
+There are no STRETCH or EXTRA features for this lab.
 
 ## Video Demo
 
@@ -43,7 +35,8 @@ GIF created with <a href="https://www.cockos.com/licecap/">LICEcap.</a>
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+During this lab, I became familiar with finding errors using Logcat. I debugged ClassCastException, ResourceNotFoundException,ArrayIndexOutOfBoundsException, and NullPointerException. 
+In addition, I used my personal Android device to run and debug the application.
 
 ## License
 
