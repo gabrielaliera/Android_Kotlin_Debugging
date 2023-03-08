@@ -9,7 +9,7 @@ Time spent: **2** hours spent in total
 
 Android Kotlin Debugging is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 🤓🧠👩‍💻
 
 ## Application Features
 
