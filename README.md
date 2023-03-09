@@ -20,7 +20,7 @@ The following REQUIRED features are completed:
 - [x] 📅 Debug and fix Current Day activity
 - [x] 🌈 Debug and fix behavior of Random Color activity
 - [x] 🗒️ Debug and fix Print List activity
-- [ ] 💯 Debug and fix Favorite Number activity
+- [x] 💯 Debug and fix Favorite Number activity
 
 There are no STRETCH or EXTRA features for this lab.
 
