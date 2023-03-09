@@ -34,7 +34,7 @@ GIF created with <a href="https://www.cockos.com/licecap/">LICEcap.</a>
 
 ## Notes
 
-During this lab, I became familiar with finding errors using Logcat. I debugged ClassCastException, ResourceNotFoundException,ArrayIndexOutOfBoundsException, and NullPointerException. In addition, I used my personal Android device to run and debug the application.
+During this lab, I became familiar with finding errors using Logcat. I debugged ClassCastException, ResourceNotFoundException, ArrayIndexOutOfBoundsException, and NullPointerException. In addition, I used my personal Android device to run and debug the application.
 
 ## License
 
