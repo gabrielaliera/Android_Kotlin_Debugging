@@ -21,7 +21,7 @@ class RandomColorActivity : AppCompatActivity() {
 
     private fun getRandomColor(): Int {
         // Get random color// Get random color// Get random color// Get random color
-        getRandomColor()
+        //getRandomColor() -  removed
 
         val rnd = Random()
         return Color.argb(

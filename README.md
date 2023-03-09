@@ -18,8 +18,8 @@ The following REQUIRED features are completed:
 - [x] 👋 Debug and fix navigation to Hello World activity
 - [x] 4️⃣ Debug and fix Number Sum (2 + 2) activity
 - [x] 📅 Debug and fix Current Day activity
-- [ ] 🌈 Debug and fix behavior of Random Color activity
-- [ ] 🗒️ Debug and fix Print List activity
+- [x] 🌈 Debug and fix behavior of Random Color activity
+- [x] 🗒️ Debug and fix Print List activity
 - [ ] 💯 Debug and fix Favorite Number activity
 
 There are no STRETCH or EXTRA features for this lab.
